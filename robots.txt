@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boconcwasupt.github.io/sitemap.xml
